@@ -1,0 +1,31 @@
+html {
+  background-color: rgb(83, 224, 64);
+  /* background-image: url(dice-1.png); */
+}
+.contact {
+  margin-top: 3cm;
+}
+
+.calcpage {
+  padding-left: 2cm;
+  margin-left: 11cm;
+  padding-top: 1cm;
+}
+
+.logi {
+  padding-right: 11cm;
+  text-align: center;
+  align-items: center;
+}
+
+.game {
+  width: 100px;
+  height: 100px;
+  cursor: cell;
+  padding-left: 45px;
+}
+.calc {
+  width: 100px;
+  height: 100px;
+  cursor: cell;
+}

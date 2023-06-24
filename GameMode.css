@@ -1,0 +1,81 @@
+.myst {
+  justify-content: center;
+  margin-top: 3cm;
+  margin-left: 12cm;
+  background-color: rgb(255, 185, 237);
+  width: 600px;
+  height: 70px;
+  border-radius: 4cm;
+}
+
+html {
+  background-color: blueviolet;
+  /* background-color: rgb(255, 247, 16); */
+}
+
+.Home {
+  margin-left: 22cm;
+  /* color: green; */
+}
+.agn {
+  height: 1cm;
+  border-radius: 4cm;
+  -webkit-border-radius: 4cm;
+  -moz-border-radius: 4cm;
+  -ms-border-radius: 4cm;
+  -o-border-radius: 4cm;
+}
+
+.agn:hover {
+  cursor: cell;
+}
+
+.guess:hover {
+  cursor: grab;
+}
+.guess {
+  margin-left: 17cm;
+  margin-top: 3cm;
+  border-radius: 25cm;
+  -webkit-border-radius: 25cm;
+  -moz-border-radius: 25cm;
+  -ms-border-radius: 25cm;
+  -o-border-radius: 25cm;
+  width: 7cm;
+  background-color: pink;
+  height: 1cm;
+}
+.dif {
+  margin-left: 30cm;
+  /* margin-top: 2cm; */
+  border-radius: 25cm;
+  -webkit-border-radius: 25cm;
+  -moz-border-radius: 25cm;
+  -ms-border-radius: 25cm;
+  -o-border-radius: 25cm;
+  width: 7cm;
+  background-color: pink;
+  height: 1cm;
+}
+
+.Try {
+  margin-right: -1cm;
+}
+
+.agn {
+  background: pink;
+}
+
+.mp {
+  width: 3cm;
+  height: 5cm;
+}
+
+.vi {
+  width: 233px;
+  height: 344px;
+}
+.mu {
+  width: 233px;
+  height: 344px;
+}

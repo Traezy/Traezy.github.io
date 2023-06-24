@@ -1,0 +1,114 @@
+html {
+  background-color: rgb(216, 8, 8);
+}
+
+h1 {
+  color: blue;
+}
+
+.NO {
+  /* text-align: center; */
+  color: blue;
+  margin-top: 3cm;
+  margin-left: 13cm;
+  width: 100px;
+  background-color: peachpuff;
+  height: 70px;
+  border-radius: 4cm;
+}
+
+.NO1 {
+  /* text-align: center; */
+  color: blue;
+  margin-top: 3cm;
+  margin-left: 5cm;
+  background-color: peachpuff;
+  width: 100px;
+  height: 70px;
+  border-radius: 4cm;
+}
+
+.submit {
+  color: blue;
+  margin-top: 3cm;
+  margin-left: 13cm;
+  width: 80px;
+  height: 70px;
+}
+
+.add {
+  margin-top: -10.4cm;
+  margin-left: 18cm;
+}
+
+.subtract {
+  margin-top: -1.4cm;
+  margin-left: 18cm;
+  height: 70px;
+}
+
+.NO2 {
+  /* text-align: center; */
+  color: blue;
+  margin-top: 6cm;
+  margin-left: 13cm;
+  width: 100px;
+  height: 70px;
+  border-radius: 4cm;
+  background-color: peachpuff;
+}
+
+.NO3 {
+  /*text-align: center;
+  */
+  color: blue;
+  background-color: peachpuff;
+  margin-top: 6cm;
+  margin-left: 5cm;
+  width: 100px;
+  height: 70px;
+  border-radius: 4cm;
+  -webkit-border-radius: 4cm;
+  -moz-border-radius: 4cm;
+  -ms-border-radius: 4cm;
+  -o-border-radius: 4cm;
+}
+
+.no {
+  margin-left: 29cm;
+  margin-top: -2cm;
+}
+
+.no1 {
+  margin-left: 29cm;
+  margin-top: -2cm;
+}
+
+.equal {
+  margin-left: 24cm;
+  width: 45px;
+  height: 80px;
+  margin-top: 1cm;
+}
+
+.equal1 {
+  margin-top: 1cm;
+  margin-left: 24cm;
+  width: 45px;
+  height: 80px;
+}
+
+button:hover {
+  background-color: rgb(192, 213, 255);
+}
+
+.clear {
+  background-color: red;
+  width: 2cm;
+  height: 1cm;
+  border-radius: 12cm;
+  -webkit-border-radius: 12cm;
+  -moz-border-radius: 12cm;
+  -ms-border-radius: 12cm;
+  -o-border-radius: 12cm;
+}

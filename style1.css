@@ -1,0 +1,49 @@
+html {
+  background-color: rgb(128, 145, 186);
+  text-align: center;
+  margin-top: 5cm;
+}
+
+.log,
+.hidden {
+  background-color: blanchedalmond;
+  width: 3cm;
+  height: 1cm;
+  border-radius: 19cm;
+  -webkit-border-radius: 19cm;
+  -moz-border-radius: 19cm;
+  -ms-border-radius: 19cm;
+  -o-border-radius: 19cm;
+}
+
+.link {
+  display: none;
+}
+.first,
+.password {
+  height: 2cm;
+  width: 701px;
+  border-radius: 3cm;
+  -webkit-border-radius: 3cm;
+  -moz-border-radius: 3cm;
+  -ms-border-radius: 3cm;
+  -o-border-radius: 3cm;
+}
+.Home {
+  display: none;
+}
+
+.hidden {
+  display: none;
+  width: 1cm;
+  border-radius: 19cm;
+  height: -3cm;
+  -webkit-border-radius: 19cm;
+  -moz-border-radius: 19cm;
+  -ms-border-radius: 19cm;
+  -o-border-radius: 19cm;
+}
+
+.hidden1 {
+  display: block;
+}
