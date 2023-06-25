@@ -1,6 +1,6 @@
 .myst {
   justify-content: center;
-  margin-top: 3cm;
+  margin-top: 1.5cm;
   margin-left: 11cm;
   background-color: rgb(255, 185, 237);
   width: 600px;
@@ -13,7 +13,9 @@ html {
   background-color: blueviolet;
   /* background-color: rgb(255, 247, 16); */
 }
-
+.amt {
+  font-size: 2rem;
+}
 .Home {
   margin-left: 19cm;
   /* color: green; */
