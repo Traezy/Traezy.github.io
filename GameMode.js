@@ -11,7 +11,7 @@ document.querySelector(".dif").addEventListener("click", function () {
     "Terror, it is impossible to win HaHahahahahaha";
   myst.value = "";
 });
-console.log(ran);
+
 function logic() {
   if (trial > -1) {
     document.querySelector(".Trial").textContent = trial--;
