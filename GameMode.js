@@ -15,9 +15,7 @@ console.log(ran);
 function logic() {
   if (trial > -1) {
     document.querySelector(".Trial").textContent = trial--;
-    if (Number(document.querySelector(".myst").value) === ran && trial == 4) {
-      document.querySelector("html").style.background = "blue";
-    } else if (Number(document.querySelector(".myst").value) === ran) {
+    if (Number(document.querySelector(".myst").value) === ran) {
       document.querySelector(".p").textContent = "Correct, You WON!!";
       document.querySelector("html").style.backgroundColor =
         "rgb(255, 247, 16)";
