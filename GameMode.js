@@ -6,7 +6,6 @@ let myst = document.querySelector(".myst");
 
 document.querySelector(".dif").addEventListener("click", function () {
   ran = Math.trunc(Math.random() * 1058765936296260622566704) + 1;
-  console.log(ran);
   document.querySelector(".p").textContent =
     "Terror, it is impossible to win HaHahahahahaha";
   myst.value = "";
