@@ -1,7 +1,7 @@
 .myst {
   justify-content: center;
   margin-top: 3cm;
-  margin-left: 12cm;
+  margin-left: 11cm;
   background-color: rgb(255, 185, 237);
   width: 600px;
   height: 70px;
@@ -14,7 +14,7 @@ html {
 }
 
 .Home {
-  margin-left: 22cm;
+  margin-left: 19cm;
   /* color: green; */
 }
 .agn {
@@ -34,7 +34,7 @@ html {
   cursor: grab;
 }
 .guess {
-  margin-left: 17cm;
+  margin-left: 15cm;
   margin-top: 3cm;
   border-radius: 25cm;
   -webkit-border-radius: 25cm;
@@ -46,7 +46,7 @@ html {
   height: 1cm;
 }
 .dif {
-  margin-left: 30cm;
+  margin-left: 25.9cm;
   /* margin-top: 2cm; */
   border-radius: 25cm;
   -webkit-border-radius: 25cm;
