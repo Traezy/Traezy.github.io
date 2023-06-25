@@ -11,6 +11,7 @@ document.querySelector(".dif").addEventListener("click", function () {
   document.querySelector(".p").textContent =
     "Terror, it is impossible to win HaHahahahahaha";
   myst.value = "";
+  document.querySelector("html").style.backgroundColor = "blueviolet";
 });
 
 function logic() {
