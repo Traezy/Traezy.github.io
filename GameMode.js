@@ -4,7 +4,7 @@ let ran = Math.trunc(Math.random() * 10) + 1;
 let trial = 3;
 let myst = document.querySelector(".myst");
 let hc = document.querySelector("html").style.background;
-console.log(ran);
+// console.log(ran);
 document.querySelector(".dif").addEventListener("click", function () {
   ran = Math.trunc(Math.random() * 105876593629613924) + 1;
   document.querySelector(".p").textContent =
